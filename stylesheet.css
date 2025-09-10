@@ -147,7 +147,12 @@ a{
 
 
 
+
+
 Media query 
+
+
+
 
 
 
@@ -197,7 +202,7 @@ Media query
         height: 100%;
     }
     .product-image{
-        height: 190px;
+        height: 230px;
         object-position: center -125px;
     }
     .description-card{
